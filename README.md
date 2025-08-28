@@ -1,6 +1,4 @@
-# Aula 02: Coleta de Dados para 
-
-# Responder à Pergunta 
+# Aula 02: Coleta de Dados para Responder à Pergunta 
 
 Professor: Paulo Rogério Pires Manseira 
 
